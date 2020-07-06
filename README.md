@@ -1,5 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1>Gatsby - Contentful - Netlify Practice </h1>
+<h3> View Live: https://gatsby-practice-contentful.netlify.app/</h3>
 
 <p align="center">
   <a href="https://www.gatsbyjs.org">
