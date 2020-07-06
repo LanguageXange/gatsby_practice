@@ -1,5 +1,5 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-Gatsby - Contentful - Netlify Practice 
+<h1>Gatsby - Contentful - Netlify Practice </h1>
 
 <p align="center">
   <a href="https://www.gatsbyjs.org">
